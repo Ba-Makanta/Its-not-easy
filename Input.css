@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*.header-container(
+   background-image: url(./skilline/image/rectangle\ 4.svg);
+   background-size: 100vw;
+   height: 500px; 
+}*/
+
+.partners img{
+    max-width:  120px;
+}
